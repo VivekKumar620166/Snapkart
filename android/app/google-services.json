@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006797178797",
+    "project_id": "snapkart-2fa40",
+    "storage_bucket": "snapkart-2fa40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006797178797:android:9df70c8240354ff4d94324",
+        "android_client_info": {
+          "package_name": "com.example.snapkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXASsy9C55ONg8n_KRklOq8qKe2DapOn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
